@@ -1,6 +1,22 @@
-# Hello World React Project
+# EVery
 
-This is a simple React application that displays a "Hello World" message.
+EVery is a smart charging scheduler for electric vehicles in workplace environments. The application optimizes charging schedules across multiple users with different vehicles and calendar schedules.
+
+## Features
+
+- User-friendly calendar interface
+- Automatic scheduling of charging sessions
+- Optimal use of available charging time
+- Conflict resolution between user schedules
+- Battery level tracking and optimization
+- Support for different EV models with varying battery capacities
+
+## Technologies
+
+- React
+- FullCalendar
+- date-fns
+- CSS3
 
 ## Getting Started
 
